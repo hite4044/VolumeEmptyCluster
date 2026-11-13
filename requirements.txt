@@ -1,0 +1,2 @@
+# DiskFileLoc GUI 依赖（父解释器 D:\Python310，Python 3.10.9）
+PySide6>=6.5
